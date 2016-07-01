@@ -1,0 +1,5 @@
+C:\inetpub\wwwroot\Sistema_Inventario2\Sistema_Inventario2\bin\Sistema_Inventario2.dll.config
+C:\inetpub\wwwroot\Sistema_Inventario2\Sistema_Inventario2\bin\Sistema_Inventario2.dll
+C:\inetpub\wwwroot\Sistema_Inventario2\Sistema_Inventario2\bin\Sistema_Inventario2.pdb
+C:\inetpub\wwwroot\Sistema_Inventario2\Sistema_Inventario2\obj\Debug\Sistema_Inventario2.dll
+C:\inetpub\wwwroot\Sistema_Inventario2\Sistema_Inventario2\obj\Debug\Sistema_Inventario2.pdb
