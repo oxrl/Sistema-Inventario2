@@ -7,7 +7,7 @@ html {
 body {
     background-color: #fbfbfb;
     color: #333;
-    font-size: .85em;
+    font-size: 1.00 em;
     font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
     margin: 0;
     padding: 0;
@@ -65,7 +65,7 @@ section#Contenido{
 }
 #caja2{
 	display: inline-block;
-    margin: 10px;
+    margin: 30px;
 }
 #login {
     margin: -20px 150px 0px;
@@ -87,10 +87,10 @@ section#Contenido{
      list-style: none;
 } 
 #Form{
-  height: 260px;
-  margin: -466px 412px;
+  height: 100px;
+  margin: -476px 668px;
   position: absolute;
-  width: 40%;
+  width: 15%;
 }
 #menu{	
 	padding: 0;
@@ -218,3 +218,4 @@ section#Contenido{
 	background-position: center center;
 	padding: 50px;
 }
+

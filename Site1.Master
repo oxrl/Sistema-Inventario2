@@ -7,11 +7,13 @@
     
     <meta name="tipo_contenido"  content="text/html;" http-equiv="content-type" charset="utf-8"/>
     <title></title>
+  
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"/>
     <link href="Css/Principal.css" rel="stylesheet" type="text/css"/>
-    <!--<link href="Css/login.css" rel="stylesheet" type="text/css" /> -->
+     <link href="Css/login.css" rel="stylesheet" type="text/css" />
     <script  type="text/javascript" src="../Js/jquery-1.12.1.min.js"></script>
     <script  type="text/javascript" src="../Js/Validar.js"></script>
-    <!--<script  type="text/javascript" src="../Js/login.js"></script>-->
+    <script  type="text/javascript" src="../Js/login.js"></script>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
@@ -63,19 +65,19 @@
             <h3>Siguenos en las redes sociales</h3>
             <div id="caja2">
                 <a href="#" class="fbk" target="_blank" >&nbsp</a>
-                <p>Haste fan en nuestra red social</p>
+                <p class="rs_">Haste fan en nuestra red social</p>
             </div>
             <div id="caja2">
                 <a href="#" class="twitter" target="_blank" >&nbsp</a>
-                <p>Síguenos en nuestra red social</p>
+                <p class="rs_">Síguenos en nuestra red social</p>
             </div>
             <div id="caja2">
                 <a href="#" class="google" target="_blank" >&nbsp</a>
-                <p>Agréganos en tus círculos</p>
+                <p class="rs_">Agréganos en tus círculos</p>
             </div>
             <div id="caja2">
                 <a href="#" class="youtube" target="_blank" >&nbsp</a>
-                <p>Visítanos en nuestro canal</p>
+                <p class="rs_">Visítanos en nuestro canal</p>
             </div>
 
             <div class="copy">
